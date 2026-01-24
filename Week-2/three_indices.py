@@ -1,5 +1,6 @@
 '''Question- Given a sorted array of positive integers, design an algorithm and implement it using a program to find three indices
-             i, j, k such that arrli] + arr[j] = arr[k].def find_three_indices(arr, n): for k in range(n - 1, 1, -1):'''
+             i, j, k such that arrli] + arr[j] = arr[k].
+             def find_three_indices(arr, n): for k in range(n - 1, 1, -1):'''
 
 
 def find_three_indices(arr, n):
