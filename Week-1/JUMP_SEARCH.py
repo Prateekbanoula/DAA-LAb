@@ -1,7 +1,7 @@
 '''Question:- Given a sorted array of non-negative integers, design an efficient algorithm to search for a given key element
               using the Jump Search technique. Implement the algorithm using a program and determine whether the key element
               is present in the array or not.
-              Also, compute the total number of comparisons required for each input case.'''
+             Also, compute the total number of comparisons required for each input case.'''
 
 import math
 
