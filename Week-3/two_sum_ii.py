@@ -1,4 +1,5 @@
-''' Question:- LeetCode #167 – Two Sum II (Input Array Is Sorted)'''
+''' Question:- LeetCode #167 – Two Sum II (Input Array Is Sorted)
+               1 based indexing is required in Output   '''
 
 class Solution:
     def twoSum(self, numbers, target):

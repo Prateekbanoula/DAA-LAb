@@ -20,7 +20,7 @@ def jump_search(arr, key):
 
         if prev >= n:
             return False, comparisons
-
+        
     # Linear search phase
     while prev < min(step, n):
         comparisons += 1
